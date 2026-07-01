@@ -4,7 +4,7 @@
 neon well where whole **planes _and_ columns** vanish — equal parts nostalgia
 and spatial-reasoning workout. Built with Three.js + TypeScript.
 
-**▶️ [Play it live](https://vectris.onrender.com)** · **🎥 [Watch the demo](https://github.com/mangofillet/vectris-demo/releases/latest)**
+**▶️ [Play it live](https://vectris-3d-tetris-demo.onrender.com)** · **🎥 [Watch the demo](https://github.com/mangofillet/vectris-demo/releases/latest)**
 
 ---
 
