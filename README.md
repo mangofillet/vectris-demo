@@ -4,7 +4,8 @@
 
 **The Tetris you grew up with, reborn in 3D.** Polycube pieces tumble down a
 neon well where whole **planes _and_ columns** vanish — equal parts nostalgia
-and spatial-reasoning workout. Built with Three.js + TypeScript.
+and spatial-reasoning workout. Full-stack build: **Three.js + TypeScript** front end,
+**Supabase (Postgres)** backend for a real-time global leaderboard.
 
 **▶️ [Play it live](https://vectris-3d-tetris-demo.onrender.com)** · **🎥 [Watch the demo](https://github.com/mangofillet/vectris-demo/releases/latest)**
 
@@ -23,7 +24,7 @@ It looks like an arcade cabinet and plays like a brain-teaser.
 - ⚡ **Plane _and_ column clears** — a fresh twist on the classic rules
 - 🌆 **Neon / synthwave visuals** — bloom, multiple themes, cube skins
 - 🎵 **Music & SFX** — with a proper synthwave soundtrack
-- 🏆 **Local high scores** — chase your own best
+- 🏆 **Global leaderboard** — high scores persisted to a **Supabase (Postgres)** backend, so you compete against everyone (local best tracked too)
 
 ## Controls
 
