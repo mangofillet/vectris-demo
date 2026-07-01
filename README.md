@@ -9,6 +9,8 @@ and spatial-reasoning workout. Full-stack build: **Three.js + TypeScript** front
 
 **▶️ [Play it live](https://vectris-3d-tetris-demo.onrender.com)** · **🎥 [Watch the demo](https://github.com/mangofillet/vectris-demo/releases/latest)**
 
+> **What it demonstrates:** full-stack web development · TypeScript · real-time backend integration (Supabase / Postgres) · 3D graphics (Three.js / WebGL) · state management & deployment.
+
 ---
 
 ## What it is
