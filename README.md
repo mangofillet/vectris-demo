@@ -1,5 +1,7 @@
 # VECTRIS — 3D Tetris
 
+![VECTRIS — 3D Tetris gameplay](docs/demo.gif)
+
 **The Tetris you grew up with, reborn in 3D.** Polycube pieces tumble down a
 neon well where whole **planes _and_ columns** vanish — equal parts nostalgia
 and spatial-reasoning workout. Built with Three.js + TypeScript.
